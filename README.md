@@ -1,3 +1,3 @@
-*	Developed logistic regression model on 0.28 Mn+ transactions using scikit-learn achieving 99.6% classification accuracy
-*	Engineered fraud detection pipeline with stratified sampling and PCA features, delivering 87% precision and 68% recall
-*	Reduced false positives by 95% via targeted feature analysis, minimizing customer disruption in transaction verification
+* Built logistic regression model on 284,807 transactions , improving fraud detection accuracy to 92.9% , reducing financial risks for the company.
+* Analyzed fraud patterns and optimized precision to 96.7% , minimizing false alarms and enhancing operational efficiency , saving investigation time.
+* Balanced high precision and recall (F1 score 92.6%) , ensuring effective detection of 88.8% actual frauds while reducing false positives , protecting revenue streams.
