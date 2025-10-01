@@ -2,7 +2,7 @@
 * Analyzed fraud patterns and optimized precision to 97% , minimizing false alarms and enhancing operational efficiency , saving investigation time.
 * Balanced high precision and recall (F1 score 92.6%) , ensuring effective detection of 89% actual frauds while reducing false positives , protecting revenue streams.
 
-Analyst oriented pointers -->
+***Analyst oriented pointers -->***
 
 * Developed a binary classification pipeline on [dataset], cleaning 10k+ records and engineering features to improve model input quality.
 
@@ -12,7 +12,7 @@ Analyst oriented pointers -->
 
 * Presented results in business terms, translating statistical outputs into actionable insights for decision-making scenarios.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"""Project Report: Credit Classification using Logistic Regression"""
+**Project Report: Credit Classification using Logistic Regression**
 1. Objective
 
 The goal was to build a classification model that predicts whether a credit applicant is likely to default or not. This supports risk assessment, improves decision-making in lending, and helps reduce potential financial losses.
@@ -62,12 +62,14 @@ Helps financial institutions minimize default risk by identifying high-risk appl
 Demonstrates the use of statistical modeling in risk management, bridging academic methods with real-world lending practices.
 
 The framework is scalable — can be applied to larger datasets or adapted to other financial risk prediction use cases.
+
 ------------------------------------------------------------
-Business Impact Report: Credit Card Fraud Detection Project
-Executive Summary
+
+**Business Impact Report: Credit Card Fraud Detection Project**
+***Executive Summary***
 This project developed a logistic regression-based fraud detection model using a dataset of 284,807 credit card transactions. With 492 fraud transactions (0.17%), the model achieved strong metrics including 92.9% accuracy, 96.7% precision, 88.8% recall, and a balanced F1 score of 92.6%. These results demonstrate reliable fraud detection while minimizing false alarms, supporting financial security and operational efficiency.
 
-Data Analysis Summary
+***Data Analysis Summary***
 Analyzed 284,807 transaction records with anonymized features and transaction amounts.
 
 Fraud transactions numbered 492, representing about 0.17% of total transactions.
@@ -78,7 +80,7 @@ Calculated total fraud amount of approximately $60,127, legitimate transactions 
 
 Trained and evaluated logistic regression model optimized for accuracy and minimal false alerts.
 
-Business Value Delivered
+***Business Value Delivered***
 Fraud Detection Accuracy: Achieved 92.9% accuracy for reliable transaction classification.
 
 Reduced Operational Costs: Achieved 96.7% precision, lowering false fraud alerts and investigation workload.
@@ -87,7 +89,7 @@ Financial Loss Prevention: Detected 89% of fraud transactions, preventing estima
 
 Balanced Performance: Maintained a 92.6% F1 score, effectively balancing fraud detection and false positive reduction.
 
-Strategic Impact for the Firm
+***Strategic Impact for the Firm***
 Strengthened fraud control reduces financial risk and loss exposure.
 
 Increased operational efficiency decreases investigation costs.
