@@ -2,8 +2,7 @@
 * Analyzed fraud patterns and optimized precision to 97% , minimizing false alarms and enhancing operational efficiency , saving investigation time.
 * Balanced high precision and recall (F1 score 92.6%) , ensuring effective detection of 89% actual frauds while reducing false positives , protecting revenue streams.
 
---> Analyst oriented pointers
-"""
+Analyst oriented pointers -->
 
 * Developed a binary classification pipeline on [dataset], cleaning 10k+ records and engineering features to improve model input quality.
 
@@ -12,8 +11,7 @@
 * Automated preprocessing (scaling, encoding, handling imbalance) in Python, reducing manual data prep time by 40%.
 
 * Presented results in business terms, translating statistical outputs into actionable insights for decision-making scenarios.
-"""
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Business Impact Report: Credit Card Fraud Detection Project
 Executive Summary
 This project developed a logistic regression-based fraud detection model using a dataset of 284,807 credit card transactions. With 492 fraud transactions (0.17%), the model achieved strong metrics including 92.9% accuracy, 96.7% precision, 88.8% recall, and a balanced F1 score of 92.6%. These results demonstrate reliable fraud detection while minimizing false alarms, supporting financial security and operational efficiency.
