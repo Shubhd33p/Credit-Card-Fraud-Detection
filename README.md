@@ -3,7 +3,8 @@
 * Balanced high precision and recall (F1 score 92.6%) , ensuring effective detection of 89% actual frauds while reducing false positives , protecting revenue streams.
 
 --> Analyst oriented pointers
-"
+"""
+
 * Developed a binary classification pipeline on [dataset], cleaning 10k+ records and engineering features to improve model input quality.
 
 * Applied logistic regression with hyperparameter tuning, achieving 87% accuracy and 0.91 ROC-AUC, outperforming baseline by 18%.
@@ -11,7 +12,7 @@
 * Automated preprocessing (scaling, encoding, handling imbalance) in Python, reducing manual data prep time by 40%.
 
 * Presented results in business terms, translating statistical outputs into actionable insights for decision-making scenarios.
-"
+"""
 
 Business Impact Report: Credit Card Fraud Detection Project
 Executive Summary
